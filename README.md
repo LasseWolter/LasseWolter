@@ -1,4 +1,6 @@
-<!-- ### Hi there 👋 -->
+### Hello 👋
+💻🧑‍🤝‍🧑 I'm a tech enthusiast advocating the use of technology to benefit society. 
+🪧🐢 I'm especially passionate about fighting climate change.
 
 <!--
 **LasseWolter/LasseWolter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
