@@ -1,7 +1,7 @@
 ### Hello 👋
 - 🧑‍💻 I am a tech enthusiast, fan of neovim, tmux, and configuring stuff - check out my [useful_scripts repo](https://github.com/LasseWolter/useful_scripts) to get a taste
-- 💻🤝🧑‍🤝‍🧑 I advocate the use of technology to benefit society
-- 🪧🐢 I'm passionate about fighting climate change
+- 💻🤝🧑‍🤝‍🧑 I advocate the use of technology to benefit society - check out [blankpic.org](https://blankpic.org) for a initiative I started which advocates omitting profile pics in the professional context
+- 🪧🐢 I'm passionate about fighting climate change - currently working at a globally operating vertical farming company called [IGS](https://www.intelligentgrowthsolutions.com)
 - 🕵️‍♂️ Details matter - I'm here to do things properly
 
 <!--
