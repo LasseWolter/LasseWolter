@@ -1,5 +1,5 @@
 ### Hello 👋
-- 🧑‍💻 I am a tech enthusiast, fan of neovim, tmux, and configuring stuff - check out my [useful_scripts repo](https://github.com/LasseWolter/useful_scripts)
+- 🧑‍💻 I am a tech enthusiast, fan of neovim, tmux, and configuring stuff - check out my [useful_scripts repo](https://github.com/LasseWolter/useful_scripts) to get a taste
 - 💻🤝🧑‍🤝‍🧑 I advocate the use of technology to benefit society
 - 🪧🐢 I'm passionate about fighting climate change
 - 🕵️‍♂️ Details matter - I'm here to do things properly
