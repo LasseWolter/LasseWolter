@@ -1,8 +1,8 @@
 ### Hello 👋
-- 🧑‍💻 I am a tech enthusiast.
-- 💻🤝🧑‍🤝‍🧑 I advocate the use of technology to benefit society. 
-- 🪧🐢 I'm passionate about fighting climate change.
-- 🕵️‍♂️ Details matter - I'm here to do things properly.
+- 🧑‍💻 I am a tech enthusiast, fan of neovim, tmux, and configuring stuff - check out my [useful_scripts repo](https://github.com/LasseWolter/useful_scripts)
+- 💻🤝🧑‍🤝‍🧑 I advocate the use of technology to benefit society
+- 🪧🐢 I'm passionate about fighting climate change
+- 🕵️‍♂️ Details matter - I'm here to do things properly
 
 <!--
 **LasseWolter/LasseWolter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
