@@ -1,8 +1,8 @@
 ### What's up?
 - 🧑‍💻 I am a tech enthusiast, fan of neovim, tmux, and configuring stuff - check out my [useful_scripts repo](https://github.com/LasseWolter/useful_scripts) to get a taste
-- 💻🤝🧑‍🤝‍🧑 I advocate the use of technology to benefit society - check out [blankpic.org](https://blankpic.org) for a initiative I started
+- 💻🤝🧑‍🤝‍🧑 I advocate the use of technology to benefit society - check out [blankpic.org](https://blankpic.org) for an initiative I started
 - 🪧🐢 I'm passionate about fighting climate change - currently working at a globally operating vertical farming company called [IGS](https://www.intelligentgrowthsolutions.com)
-- 🕵️‍♂️ Details matter - I'm here to do things properly
+- 🕵️‍♂️ Details matter - I'm happy to break something over and over again if that means I get to understand it in the end
 
 <!--
 **LasseWolter/LasseWolter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
